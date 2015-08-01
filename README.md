@@ -1,3 +1,3 @@
 # IdeaGit
-I change somthing to test
+I changed somthing to test
 
